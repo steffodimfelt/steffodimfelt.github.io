@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "4c2352b693d630091ba3",
-    "url": "/static/css/main.b76df27e.chunk.css"
+    "revision": "b98dec00da38484f78fe",
+    "url": "/static/css/main.59a181a1.chunk.css"
   },
   {
-    "revision": "4c2352b693d630091ba3",
-    "url": "/static/js/main.4c2352b6.chunk.js"
+    "revision": "b98dec00da38484f78fe",
+    "url": "/static/js/main.b98dec00.chunk.js"
   },
   {
     "revision": "46810aa8c43dbefc6fc8",
@@ -28,7 +28,7 @@ self.__precacheManifest = [
     "url": "/static/media/BalooThambi2-Bold.4148d335.ttf"
   },
   {
-    "revision": "d3f958926deae7fd34b19c4baedb7a13",
+    "revision": "829e6a1d96a57dc354e4e8458cac2708",
     "url": "/index.html"
   }
 ];
